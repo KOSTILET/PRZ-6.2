@@ -15,7 +15,7 @@ show ip int br
 ```
 ![image](https://github.com/KOSTILET/PRZ-6.2/assets/64083435/c227a8b5-05e3-404e-a378-4ebafe5b7469)
 
-Отправка эхо-запроса с RB на RA
+# Отправка эхо-запроса с RB на RA
 
 ```
 ping 64.103.211.2
